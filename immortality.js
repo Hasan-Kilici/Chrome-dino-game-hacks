@@ -1,0 +1,1 @@
+Runner.prototype.gameOver = ()=>{}

@@ -14,3 +14,4 @@ Trex.animFrames.DUCKING = {
 frames: [220],
 msPerFrame: 16.666666666666668,
 }
+Trex.config.WIDTH_DUCK = 44

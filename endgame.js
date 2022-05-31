@@ -1,0 +1,1 @@
+Runner.config.ACCELERATION = 999999;
